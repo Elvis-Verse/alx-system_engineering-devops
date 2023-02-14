@@ -1,4 +1,4 @@
 #!/bin/bash
 # testing shell scripting
-echo "Hello, World"
 
+echo "Hello, World"
